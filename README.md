@@ -1,4 +1,4 @@
-![](https://i.imgur.com/6oyUJH0.jpg)
+
 
 # Russian DNS Leak (All .ru, .su, .tatar, .рф, and .дети Domains) 
 
